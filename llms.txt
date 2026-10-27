@@ -23,6 +23,9 @@
 - [Affordable Fence Installation McDonough Homeowners Can Plan](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/affordable-fence-installation-mcdonough/): Affordable fence installation McDonough homeowners can plan for, with practical steps to manage the scope of your project.
 - [Questions to Ask a Fence Installation Contractor Near Me](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-contractor-near-me/): Find a fence installation contractor near me and prepare for a clear, informed project discussion in McDonough.
 
+## Newsroom
+- [Natural Enclosures Fence Company Shares McDonough Installation Guide](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/news/2026-10-27-natural-enclosures-fence-company-shares-mcdonough-/): Natural Enclosures Fence Company published a fence installation guide, a YouTube video, a podcast episode and a SoundCloud audio version. (2026-10-27)
+
 ## Pages
 - [Fence Installation in McDonough, Georgia](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/): Talk with Natural Enclosures Fence Company about fence installation in McDonough and the next steps for your property. Call +1770-506-3222.
 - [About Natural Enclosures Fence Company](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/about/): About Natural Enclosures Fence Company, McDonough.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/news/rss.xml)
