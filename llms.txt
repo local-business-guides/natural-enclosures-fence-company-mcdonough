@@ -12,9 +12,9 @@
 - Fence contractor
 
 ## Guides
-- [Your fence installation in mcdonough checklist](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-in-mcdonough/): Fence installation in mcdonough for a well-planned yard and clear project steps in McDonough, GA.
-- [Fence installation McDonough homeowners can plan with confidence](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-mcdonough/): Fence installation McDonough homeowners can prepare for with clear hiring questions and a better project plan in McDonough, GA.
 - [best fence installation McDonough for your home](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/best-fence-installation-mcdonough/): Find the best fence installation McDonough homeowners can choose with practical planning tips for your property.
+- [Fence installation McDonough homeowners can plan with confidence](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-mcdonough/): Fence installation McDonough homeowners can prepare for with clear hiring questions and a better project plan in McDonough, GA.
+- [Your fence installation in mcdonough checklist](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-in-mcdonough/): Fence installation in mcdonough for a well-planned yard and clear project steps in McDonough, GA.
 - [best fence installation in mcdonough, made easier](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/best-fence-installation-in-mcdonough/): Plan the best fence installation in mcdonough with a practical hiring checklist and guidance for your McDonough property.
 - [Fence installation near me in McDonough, GA](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-near-me/): Find fence installation near me in McDonough and get practical help planning a fence project for your home.
 - [Local fence installation McDonough homeowners can plan](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/local-fence-installation-mcdonough/): Plan local fence installation McDonough with practical steps for a smoother project at your home.
@@ -24,6 +24,7 @@
 - [Questions to Ask a Fence Installation Contractor Near Me](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/fence-installation-contractor-near-me/): Find a fence installation contractor near me and prepare for a clear, informed project discussion in McDonough.
 
 ## Newsroom
+- [McDonough Fence Contractor Shares Installation Guide in Four Formats](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/news/2026-10-31-mcdonough-fence-contractor-shares-installation/): Natural Enclosures Fence Company released a guide to best fence installation McDonough, with related video, podcast and audio content. (2026-10-31)
 - [Natural Enclosures Fence Company Shares McDonough Installation Guide](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/news/2026-10-27-natural-enclosures-fence-company-shares-mcdonough-/): Natural Enclosures Fence Company published a fence installation guide, a YouTube video, a podcast episode and a SoundCloud audio version. (2026-10-27)
 
 ## Pages
@@ -34,3 +35,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/natural-enclosures-fence-company-mcdonough/news/rss.xml)
+- [Main resource site](https://natural-enclosures-mcdonough-fence-guide.warmape5.chatgpt.site)
